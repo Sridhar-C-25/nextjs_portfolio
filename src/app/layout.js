@@ -12,7 +12,7 @@ const anek = Anek_Latin({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Sridhar Chandrasekar.",
-  description: "I'm a full stack developer and YouTuber behind "Code A Program." Check out my videos at youtube(https://youtube.com/@CodeAProgram) 🎥👨‍💻 ",
+  description: "I'm a full stack developer and YouTuber behind Code A Program. Check out my videos at youtube(https://youtube.com/@CodeAProgram) 🎥👨‍💻 ",
 };
 
 export default function RootLayout({ children }) {
