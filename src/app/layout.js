@@ -11,8 +11,8 @@ import { Drawer } from "vaul";
 const anek = Anek_Latin({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Carlos Nicholas.",
-  description: "My Portfolio",
+  title: "Sridhar Chandrasekar.",
+  description: "I'm a full stack developer and YouTuber behind "Code A Program." Check out my videos at youtube(https://youtube.com/@CodeAProgram) 🎥👨‍💻 ",
 };
 
 export default function RootLayout({ children }) {
