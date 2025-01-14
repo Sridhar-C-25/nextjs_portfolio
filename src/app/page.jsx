@@ -45,7 +45,7 @@ export default function page() {
           className={cn("md:text-right text-center", luck.className)}
         >
           <h1>
-            Carlos <br /> <span>Nicholas.</span>
+            Sridhar <br /> <span>Chandrasekar.</span>
           </h1>
         </MotionDiv>
         <br />
